@@ -1,0 +1,1 @@
+/mnt/HC_Volume_105866131/.openclaw/workspace/repos/gamemod/asset-pipeline/SKILL.md
